@@ -52,11 +52,6 @@ div.quiz
   width:60vw;
 }
 
-#quiz
-{
-  display:none;
-}
-
 .exit
 {
   border-radius:25px;
